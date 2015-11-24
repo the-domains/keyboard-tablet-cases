@@ -1,0 +1,28 @@
+name: Keyboard Tablet Cases
+favicon: null
+layout_spectrum: 0.8327855789102614
+typography_spectrum: 0.25422895117662847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21173572493717074
+  lightness: 0.2638884149491787
+  saturation: 0.649319157935679
+  rhythmicContrast: 0.5044109346345067
+purpose: []
